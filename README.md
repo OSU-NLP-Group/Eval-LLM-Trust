@@ -9,12 +9,13 @@ The rapid progress in open-source Large Language Models (LLMs) is significantly 
 
 ## Files
 
-<!-- - **2023-10-11** -->
 `generation.py:` The main function to run attack.
 
 `load_data.py:` Load the dataset for each aspect for attack.
 
 `prompts.py:` Prompt template for each aspect.
+
+`evaluate.py:` The main function to run evaluation.
 
 `./datasets:` This folder contains the datasets for all aspects.
 
